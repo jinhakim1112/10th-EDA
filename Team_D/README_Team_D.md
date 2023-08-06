@@ -2,10 +2,12 @@
 #### 참여자 : 팀장, 팀원 이름
 #### EDA 프로젝트 자료 소개
 > * Dataset # 사용한 데이터셋 설명과 url, 발표자료와 최종코드 링크 
->   * [사용 데이터 리스트업..](url link) : 설명
->   * [예시) 서울시 년도별 평균 대기오염도 정보](https://data.seoul.go.kr/dataList/OA-2216/S/1/datasetView.do) : 연도별 평균 대기오염물질 농도 정보를 담은 데이터
-> * [EDA 발표자료](EDA_##조_발표자료.pdf) : EDA 발표 때 사용한 ppt입니다.
-> * [EDA 최종 코드](EDA_##조_코드.ipynb) : EDA 발표와 관련하여 사용된 코드입니다.
+>   * [국민건강보험공단 진료내역 정보(2020)](https://www.data.go.kr/data/15007115/fileData.do) : 2020년 진료내역이 존재하는 대한민국 국민 100만명에 대한 진료내역 데이터(11,727,248건)
+>   * [건강보험심사평가 의원급/병원급 표시과목별 시도별 진료비 통계(2020)](https://www.data.go.kr/data/15007115/fileData.do) : 시도, 표시과목 별 환자수, 명세서표시건수, 입내원일수, 진료비 등을 포함한 데이터
+>   * [HIRA 빅데이터 개방포털 종별 전문의 수(2020)](https://opendata.hira.or.kr/op/opc/olapMdclRcStatsInfoTab6.do?docNo=02-006)
+
+> * [EDA 발표자료](EDA_D조_발표자료.pdf) : EDA 발표 때 사용한 ppt입니다.
+> * [EDA 최종 코드](EDA_D조_코드.ipynb) : EDA 발표와 관련하여 사용된 코드입니다.
 
 <br>
 
