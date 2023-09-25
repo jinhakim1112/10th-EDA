@@ -7,7 +7,7 @@
 >   * [서울시 지하철 혼잡도 통계](https://data.seoul.go.kr/dataList/262/S/2/datasetView.do) 
 
 > * [EDA 발표자료](EDA_E조_발표자료.pdf) : EDA 발표 때 사용한 ppt입니다.
-> * [EDA 최종 코드](EDA_E조_코드.ipynb) : EDA 발표와 관련하여 사용된 코드입니다.
+> * [EDA 최종 코드](https://github.com/jinhakim1112/10th-EDA/tree/main/Team_E/Codes) : EDA 발표와 관련하여 사용된 코드입니다.
 
 <br>
 
