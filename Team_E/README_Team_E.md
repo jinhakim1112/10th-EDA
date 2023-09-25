@@ -6,7 +6,7 @@
 >   * [서울시 지하철호선별 역별 승하차 인원 정보](https://data.seoul.go.kr/dataList/OA-12914/S/1/datasetView.do)
 >   * [서울시 지하철 혼잡도 통계](https://data.seoul.go.kr/dataList/262/S/2/datasetView.do) 
 
-> * [EDA 발표자료](EDA_E조_발표자료.pdf) : EDA 발표 때 사용한 ppt입니다.
+> * [EDA 발표자료](https://github.com/jinhakim1112/10th-EDA/blob/main/Team_E/EDA_E%EC%A1%B0_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) : EDA 발표 때 사용한 ppt입니다.
 > * [EDA 최종 코드](https://github.com/jinhakim1112/10th-EDA/tree/main/Team_E/Codes) : EDA 발표와 관련하여 사용된 코드입니다.
 
 <br>
@@ -55,12 +55,13 @@
 ## tree (가능하다면, github에서 tree 명령어를 통해 전체 파일 트리를 보여주세요)
 ```bash
 ├── 김진하
+│   ├── Analysis3.ipynb
 │   └── dummy.txt
 ├── 유현동
-│   ├── Track1.ipynb
+│   ├── Analysis2.ipynb
 │   └── dummy.txt
 ├── 윤희찬
-│   ├── Track2
+│   ├── Analysis3.ipynb
 │   └── dummy.txt
 ├── EDA_E조_발표자료.pdf
 │   
